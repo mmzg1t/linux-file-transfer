@@ -1,0 +1,6 @@
+/build/
+/uploads/
+/example.txt
+/data/
+__pycache__/
+*.o
